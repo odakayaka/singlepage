@@ -25,8 +25,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.5">
-              <caret line="124" column="18" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+            <state vertical-scroll-proportion="-21.461538">
+              <caret line="128" column="21" selection-start-line="128" selection-start-column="15" selection-end-line="128" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -35,8 +35,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.83653843">
-              <caret line="275" column="46" selection-start-line="275" selection-start-column="46" selection-end-line="275" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.92994505">
+              <caret line="279" column="19" selection-start-line="279" selection-start-column="19" selection-end-line="279" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -610,11 +610,12 @@
       <workItem from="1482082154299" duration="5741000" />
       <workItem from="1482765586775" duration="1948000" />
       <workItem from="1482855732101" duration="4402000" />
+      <workItem from="1483182743514" duration="145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12231000" />
+    <option name="totallyTimeSpent" value="12376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1436" height="877" extended-state="6" />
@@ -684,6 +685,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -758,16 +783,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.5">
-          <caret line="124" column="18" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+        <state vertical-scroll-proportion="-21.461538">
+          <caret line="128" column="21" selection-start-line="128" selection-start-column="15" selection-end-line="128" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83653843">
-          <caret line="275" column="46" selection-start-line="275" selection-start-column="46" selection-end-line="275" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.92994505">
+          <caret line="279" column="19" selection-start-line="279" selection-start-column="19" selection-end-line="279" selection-end-column="19" />
           <folding />
         </state>
       </provider>
